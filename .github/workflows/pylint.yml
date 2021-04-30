@@ -19,4 +19,4 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        py -m pylint Implementation/prediction.py
+        py -m pylint ../prediction.py
