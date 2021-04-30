@@ -1,5 +1,7 @@
 # Prediction of Signal Lost due to Rainfall at User Cellular Signal Reception.
 
+[![Pylint](https://github.com/lohithbhargav/Python_Project/actions/workflows/pylint.yml/badge.svg)](https://github.com/lohithbhargav/Python_Project/actions/workflows/pylint.yml)
+
 ### Project Idea 
 
 The Cellular Signals are affected by so many factors like temperature, rain, fog, wind,
