@@ -19,4 +19,4 @@ jobs:
         pip install pylint
     - name: Analysing the code with pylint
       run: |
-        pylint prediction.py
+        pylint -j 4 Implementation/prediction.py Implementation/Data_Visualization1.py Implementation/Data_Visualization2.py Implementation/Data_Visualization3.py
